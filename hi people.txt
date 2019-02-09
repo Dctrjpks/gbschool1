@@ -1,4 +1,0 @@
-print (hi 1)
-print (hi 2)
-print (hi 3)
-
